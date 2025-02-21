@@ -48,11 +48,23 @@ The **Subscription Renewal Journey** is designed to re-engage users whose subscr
 - **Channel:** Email.  
 - **Follow-Up:** If no action, **exit journey**.  
 
-### **6. Post-Renewal Nurturing**  
+### **6. Post-Renewal Nurturing & Retention Journey**  
 - **Trigger:** Sent immediately after renewal.  
-- **Objective:** Welcome users back and ensure they stay engaged.  
+- **Objective:** Welcome users back and ensure they stay engaged to prevent future churn.  
 - **Channel:** Push Notification.  
-- **Next Steps:** Guide users to **explore premium features** and maximize their experience.  
+- **Message:** "Welcome back! Your subscription is active again – enjoy unlimited access!"  
+- **Next Steps:** Renewed users enter a **Retention Journey** focused on keeping them engaged through personalized content, feature highlights, and regular check-ins to reduce churn risk.  
+
+---
+
+## **Exit Points**  
+
+🟢 **Green Exit (Success):**  
+- Users who **renew** at any step exit the reactivation journey and are added to the **Retention Journey** for continued engagement and churn prevention.  
+
+🔴 **Red Exit (Failure):**  
+- Users who **do not renew** after **Step 5** are removed from the reactivation flow.  
+- Optionally, they may be added to a **long-term reactivation campaign** (e.g., seasonal offers).  
 
 ---
 
