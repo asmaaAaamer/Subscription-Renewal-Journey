@@ -1,4 +1,4 @@
-# **Subscription Renewal Journey: Turning Cancellations into Renewals** [👉 See the flow here](https://www.figma.com/board/kUebLU15oCZq3Lyir0RceB/Subscription-Renewal-Journey?node-id=0-1&p=f&t=olhRFL0GpMdvLVyW-0)
+# **Subscription Renewal Journey: Turning Cancellations into Renewals** [👉 Click here to view the flow](https://www.figma.com/board/kUebLU15oCZq3Lyir0RceB/Subscription-Renewal-Journey?node-id=0-1&p=f&t=olhRFL0GpMdvLVyW-0)
 
 **Company:** XYZ  
 **Industry:** Subscription-Based Services  
